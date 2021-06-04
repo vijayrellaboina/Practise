@@ -4,10 +4,10 @@ public class Demo1 {
 	public static void main(String[] args) {
 
 		System.out.println("Demo1 class");
-		int  x=10;
-		int y= 20;
-		int z=x+y;
-		System.out.println(z);
+		int a =100;
+		int b= 200;
+		int c=a+b;
+		System.out.println(c);
 	}
 
 }
