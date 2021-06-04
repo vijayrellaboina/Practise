@@ -5,7 +5,6 @@ public class Demo4 {
 		System.out.println("Demo4 Class in Master Branch");
 		System.out.println("Demo4 in Feature Branch");
 		//revert 1
-		//revert 2
-		//revert 3
+		//this is for revert operation in git
 	}
 }
