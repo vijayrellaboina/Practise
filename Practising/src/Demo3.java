@@ -5,5 +5,6 @@ public class Demo3 {
 		System.out.println("Demo3 Class");
 		
 		//commit 1 - feature
+		//commit 2 - feature
 	}
 }
