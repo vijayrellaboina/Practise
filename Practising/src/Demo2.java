@@ -5,6 +5,7 @@ public class Demo2 {
 		System.out.println("Demo2 class");
 		System.out.println("Demo2 class");
 		System.out.println("third line");
+		System.out.println("fourth line");
 	}
 
 }
