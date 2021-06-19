@@ -5,5 +5,6 @@ public class Demo5 {
 		System.out.println("first line");
 		System.out.println("secound line");
 		System.out.println("third line");
+		System.out.println("fourth line");
 	}
 }
